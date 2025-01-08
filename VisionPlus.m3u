@@ -1633,7 +1633,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff04901845606f
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="TRANSVISION", CINEMA WORLD
+#EXTINF:-1 tvg-logo="https://iili.io/2g4QP5P.png" group-title="TRANSVISION", CINEMA WORLD
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1643,7 +1643,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="TRANSVISION", AXN
+#EXTINF:-1 tvg-logo="https://iili.io/2g4Qg0Q.png" group-title="TRANSVISION", AXN
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1653,7 +1653,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da299e0b56/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="TRANSVISION", tvN
+#EXTINF:-1 tvg-logo="https://iili.io/2g4QUqx.png" group-title="TRANSVISION", tvN
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1663,7 +1663,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da299
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="TRANSVISION", ZEE BIOSKOP
+#EXTINF:-1 tvg-logo="https://iili.io/2g4Q6dB.png" group-title="TRANSVISION", ZEE BIOSKOP
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1683,7 +1683,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d0170334acaa
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="TRANSVISION", TECHSTROM
+#EXTINF:-1 tvg-logo="https://iili.io/2g4QrgV.png" group-title="TRANSVISION", TECHSTROM
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
